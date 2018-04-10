@@ -4,7 +4,7 @@ Vous aviez préparé ce jour depuis longtemps. Vous, le canard samuraï, êtes r
 ### Fin page 1
 * Transition/20
 ### Page 2 
-Vous n'avez pas vraiment de nom, vous êtes justement à la recherche de vos origines mais cela semble être fastidieux. Les seules  choses qui constituent votre passé sont toutes reliées à un dojo où vous semblez avoir "grandi" ( ça se voit pas mais vous êtes incroyablement petit ). Ce dojo acceuillait d'autres canards et les formait pour devenir des apprentis puis maîtres samouraïs. Un jour vous avez décidé de quitter la planète afin de voyager et d'en découvrir plus sur vous même. Votre ancien maître, le canard WC, comprenais votre choix. Il vous adonc lancé dans cette aventure en vous fournissant un vaisseau avec l'équipement qui suivait mais surtout un piste pour vos origines. **L'être vous ayant déposé dans ce dojo était couvert d'un voile noir mais possédais de grandes cornes oranges**. Il ne vous en fallait pas plus pour vous motiver à partir à l'aventure. Quelques mois après votre départ vous faites la rencontre d'un humain. Il vous avait entendu parler de **ce mystèrieux être** alors, après avoir discuté avec cet homme, vous aprenez qu'il est, lui aussi, à sa recherche. Cet homme, vous l'avez compris, est Jean-Pierre Elkabbach.
+Vous n'avez pas vraiment de nom, vous êtes justement à la recherche de vos origines mais cela semble être fastidieux. Les seules  choses qui constituent votre passé sont toutes reliées à un dojo où vous semblez avoir "grandi" ( ça se voit pas mais vous êtes incroyablement petit ). Ce dojo acceuillait d'autres canards et les formait pour devenir des apprentis puis maîtres samouraïs. Un jour vous avez décidé de quitter la planète afin de voyager et d'en découvrir plus sur vous même. Votre ancien maître, le canard WC, comprenait votre choix. Il vous adonc lancé dans cette aventure en vous fournissant un vaisseau avec l'équipement qui suivait mais surtout un piste pour vos origines. **L'être vous ayant déposé dans ce dojo était couvert d'un voile noir mais possédais de grandes cornes oranges**. Il ne vous en fallait pas plus pour vous motiver à partir à l'aventure. Quelques mois après votre départ vous faites la rencontre d'un humain. Il vous avait entendu parler de **ce mystèrieux être** alors, après avoir discuté avec cet homme, vous aprenez qu'il est, lui aussi, à sa recherche. Cet homme, vous l'avez compris, est Jean-Pierre Elkabbach.
 ### Fin page 2
 * Comment avons nous pus finir ici alors ?
 ### Page 3
@@ -24,7 +24,7 @@ D'abord, Il fallait commencer par désactiver les sécurités : Caméra, alerte,
 ### Fin page 6
 * ...
 ### Page 7
-Pour résumer, La diversion et l'infiltration se déroule sans accros : Jean-Pierre lance puis fait exploser les explosifs dans le centre pendant que vous percez avec un laser de poche le mur de la partie désafectée de l'usine. Un fois arrivé dans la zone de stockage ( deserte, bien entendu ). vous vous empressez de récuperer le dutrinium nécéssaire seulement... 
+Pour résumer, La diversion et l'infiltration se déroule sans accros : Jean-Pierre lance puis fait exploser les explosifs dans le centre pendant que vous percez, avec un laser de poche, le mur de la partie désafectée de l'usine. Un fois arrivé dans la zone de stockage ( deserte, bien entendu ). vous vous empressez de récuperer le dutrinium nécéssaire seulement... 
 ### Fin page 7
 * Suspens/20
 ### Page 8
@@ -32,3 +32,4 @@ Une alarme retentit directement après avoir décoché la première capsule! À 
 ### Fin page 9
 * Bon, et maintenant?
 ### Page 10
+ 
